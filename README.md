@@ -4,7 +4,7 @@ A Script that by tweaking the registry, you can remap the mouse ministick of the
 This solution includes he X52 PRO and the non-PRO models.
 
 ### Requirements 🧾
-- H.O.T.A.S, X52 (https://www.logitechg.com/en-us/products/space/x52-space-flight-simulator-controller.945-000025.html) or X52 Pro (https://www.logitechg.com/en-us/products/space/x52-pro-space-flight-simulator-controller.945-000022.html)
+- H.O.T.A.S, X52 [non-PRO](https://www.logitechg.com/en-us/products/space/x52-space-flight-simulator-controller.945-000025.html) or [X52 Pro](https://www.logitechg.com/en-us/products/space/x52-pro-space-flight-simulator-controller.945-000022.html)
 - Disabling the X52 Mouse Driver<br/>
 
 ### Limitations and Considerations :exclamation:
